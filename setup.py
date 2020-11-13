@@ -11,7 +11,7 @@ def read(*paths):
 
 setup(
     name='gfxlcd_fonts',
-    version='0.1',
+    version='0.2',
     description='',
     keywords=['gfxlcd', 'cili'],
     long_description=(read('readme.md')),
